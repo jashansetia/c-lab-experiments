@@ -1,5 +1,15 @@
 {
     "files.associations": {
-        "EXP2_1.C": "cpp"
-    }
+        "EXP2_1.C": "cpp",
+        "EXP2_2.C": "cpp",
+        "EXP1_1.C": "cpp",
+        "EXP1_2.C": "cpp",
+        "EXP1_3.C": "cpp",
+        "EXP1_4.C": "cpp",
+        "EXP3_1.C": "cpp",
+        "EXP3_2.C": "cpp",
+        "EXP3_3.C": "cpp",
+        "EXP3_5.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
